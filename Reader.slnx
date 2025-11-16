@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="Reader.Android/Reader.Android.csproj" />
+  <Project Path="Reader.Browser/Reader.Browser.csproj" />
+  <Project Path="Reader.Core/Reader.Core.csproj" />
+  <Project Path="Reader.Desktop/Reader.Desktop.csproj" />
+  <Project Path="Reader.iOS/Reader.iOS.csproj" />
+</Solution>
